@@ -5,7 +5,7 @@ import drawit from '../public/drawit-logo.jpg';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'DrawIt',
+  title: 'DrawIr',
   description: 'Experience the joy of creativity with our drawing app. Unleash your imagination with easy-to-use tools, a user-friendly interface, and features that make drawing more fun and accessible than ever.',
 }
 
